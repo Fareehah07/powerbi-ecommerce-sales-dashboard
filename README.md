@@ -5,7 +5,7 @@ Real-world Power BI portfolio project analyzing e-commerce sales performance and
 Overview
 
 This Power BI project visualizes e-commerce sales data to highlight performance trends, profitability, and customer behavior.
-It simulates a real-world analytics workflow — from raw data cleaning and modeling to DAX calculations and interactive dashboard design.
+It simulates a real-world analytics workflow.
 
 🧠 Objectives
 
