@@ -9,7 +9,7 @@ It simulates a real-world analytics workflow.
 
 #🧠 Objectives
 
-Build an interactive dashboard to analyze e-commerce sales KPIs
+#Build an interactive dashboard to analyze e-commerce sales KPIs
 
 Track performance by region, category, and payment mode
 
