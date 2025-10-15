@@ -1,15 +1,14 @@
 # powerbi-ecommerce-sales-dashboard
 Real-world Power BI portfolio project analyzing e-commerce sales performance and customer insights — from raw data modeling to interactive dashboards.
 
-📊 Power BI E-commerce Sales Dashboard
-Overview
+## 📌 Project Overview
 
 This Power BI project visualizes e-commerce sales data to highlight performance trends, profitability, and customer behavior.
 It simulates a real-world analytics workflow.
 
-#🧠 Objectives
+## 🧠 Objectives
 
-#Build an interactive dashboard to analyze e-commerce sales KPIs
+Build an interactive dashboard to analyze e-commerce sales KPIs
 
 Track performance by region, category, and payment mode
 
@@ -19,8 +18,7 @@ Visualize month-over-month profit fluctuations
 
 Present insights in a business-ready format for decision-making
 
-
-🧠 Project Learnings
+## 🧠 Project Learnings
 
 Created interactive dashboard to track and analyze online sales data
 
@@ -34,8 +32,7 @@ Analyzed e-commerce sales data
 
 Created an interactive dashboard using Power BI
 
-
-📈 Key Insights
+## 📈 Key Insights
 
 Maharashtra recorded the highest total sales, followed by Madhya Pradesh and Nagaland.
 
@@ -47,8 +44,7 @@ Cash on Delivery (44%) was the most popular payment method, followed by UPI (21%
 
 Profit peaked in April and gradually stabilized by June.
 
-
-💡 Business Impact
+## 💡 Business Impact
 
 This dashboard empowers business teams to:
 
@@ -60,8 +56,8 @@ Evaluate profitability at the sub-category level
 
 Plan sales strategies and inventory restocking based on trends
 
-✨ Author  
+## ✨ Author  
 
-    Fareehah Chorghay
+ ##   Fareehah Chorghay
 📍 [LinkedIn](https://www.linkedin.com/in/fareehah-chorghay)  
 📧 [fareehah.c@gmail.com](mailto:fareehah.c@gmail.com)
