@@ -6,6 +6,10 @@
 This Power BI project visualizes e-commerce sales data to highlight performance trends, profitability, and customer behavior.
 It simulates a real-world analytics workflow.
 
+## 📊 Dashboard Preview
+
+![Power BI Dashboard](powerbi_dashboard_preview.png)
+
 ## 🧠 Objectives
 
 Build an interactive dashboard to analyze e-commerce sales KPIs
