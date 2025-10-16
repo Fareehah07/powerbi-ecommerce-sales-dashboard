@@ -1,5 +1,5 @@
-# powerbi-ecommerce-sales-dashboard
-Real-world Power BI portfolio project analyzing e-commerce sales performance and customer insights — from raw data modeling to interactive dashboards.
+# 🛍️ Power BI E-commerce Sales Dashboard
+*A real-world analytics project visualizing online sales performance and customer behavior.*
 
 ## 📌 Project Overview
 
