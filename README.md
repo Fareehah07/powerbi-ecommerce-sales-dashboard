@@ -8,7 +8,7 @@ It simulates a real-world analytics workflow.
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](powerbi_dashboard_preview.png)
+![Power BI Dashboard](data/powerbi_dashboard_preview.png)
 
 ## 🧠 Objectives
 
