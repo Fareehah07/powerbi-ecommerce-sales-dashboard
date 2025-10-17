@@ -62,6 +62,6 @@ Plan sales strategies and inventory restocking based on trends
 
 ## ✨ Author  
 
- ##   Fareehah Chorghay
+   ** Fareehah Chorghay**
 📍 [LinkedIn](https://www.linkedin.com/in/fareehah-chorghay)  
 📧 [fareehah.c@gmail.com](mailto:fareehah.c@gmail.com)
